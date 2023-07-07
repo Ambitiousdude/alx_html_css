@@ -1,4 +1,8 @@
-# Hi :wave, I'm Ugberaese Augustine Osariemen
+# Hi 👋, I'm Ugberaese Augustine Osariemen
 ## A dedicated Fullstack developer
-- I am currently workin
-I’m currently learning HTML, advanced
+
+## Table of contents 📑
+- Project Description
+- Technologies used
+- Installation/Set-up
+![logo](/html_advanced/Alxlogo.jpeg)
