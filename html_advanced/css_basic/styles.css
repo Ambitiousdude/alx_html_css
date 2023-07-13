@@ -13,3 +13,7 @@ article{
 aside{
     flex: 1; overflow-y: auto;
 }
+
+body{
+    background-color: blue;
+}
